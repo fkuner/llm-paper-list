@@ -1,6 +1,6 @@
 # LLM Paper List
 
-Reading checklist for LLM papers. The original export contained two entries for `EAGLE-2`; this list keeps one canonical entry.
+Reading checklist for LLM papers.
 
 ## Foundations and Transformers
 
