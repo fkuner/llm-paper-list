@@ -44,6 +44,7 @@ Reading checklist for LLM papers.
 
 - [ ] [SGLang: Efficient Execution of Structured Language Model Programs](https://doi.org/10.48550/arXiv.2312.07104)
 - [ ] [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://doi.org/10.48550/arXiv.2403.02310)
+- [ ] [Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving](https://arxiv.org/abs/2407.00079)
 - [ ] [KVBuffer: IO-aware Serving for Linear Attention](https://doi.org/10.48550/arXiv.2605.19049)
 
 ## Training and Parallel Systems
