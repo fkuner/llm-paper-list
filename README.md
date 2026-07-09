@@ -18,6 +18,8 @@ Reading checklist for LLM papers.
 - [ ] [Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention](https://doi.org/10.48550/arXiv.2405.17381)
 - [ ] [IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://ar5iv.labs.arxiv.org/html/2603.12201)
 - [ ] [Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/abs/2310.01889)
+- [ ] [Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs/2306.15595)
+- [ ] [YaRN: Efficient Context Window Extension of Large Language Models](https://arxiv.org/abs/2309.00071)
 
 ## FlashAttention / Attention Kernel
 
