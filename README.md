@@ -40,6 +40,7 @@ Reading checklist for LLM papers.
 
 - [ ] [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://doi.org/10.48550/arXiv.2401.06066)
 - [ ] [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://doi.org/10.48550/arXiv.2405.04434)
+- [ ] [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
 - [ ] [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://doi.org/10.48550/arXiv.2512.02556)
 - [ ] [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://arxiv.org/html/2606.19348v1)
 - [ ] [TransMLA: Multi-head Latent Attention Is All You Need](https://doi.org/10.48550/arXiv.2502.07864)
