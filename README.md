@@ -17,6 +17,7 @@ Reading checklist for LLM papers.
 - [ ] [Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models](https://doi.org/10.48550/arXiv.2401.04658)
 - [ ] [Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention](https://doi.org/10.48550/arXiv.2405.17381)
 - [ ] [IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://ar5iv.labs.arxiv.org/html/2603.12201)
+- [ ] [Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/abs/2310.01889)
 
 ## FlashAttention / Attention Kernel
 
