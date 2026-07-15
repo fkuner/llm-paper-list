@@ -7,6 +7,10 @@ Reading checklist for LLM papers.
 - [ ] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [ ] [Transformers Are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
 
+## State Space Models
+
+- [ ] [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
+
 ## Linear Attention and Long Context
 
 - [ ] [A Survey of Linear Attention: Algorithm, Theory, Application, and Infrastructure](https://openreview.net/forum?id=ilkVX8aGmQ)
