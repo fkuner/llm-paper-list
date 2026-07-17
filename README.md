@@ -54,6 +54,7 @@ Reading checklist for LLM papers.
 - [ ] [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://arxiv.org/html/2606.19348v1)
 - [ ] [TransMLA: Multi-head Latent Attention Is All You Need](https://doi.org/10.48550/arXiv.2502.07864)
 - [ ] [Attention Residuals](https://arxiv.org/abs/2603.15031)
+- [ ] [LatentMoE: Toward Optimal Accuracy per FLOP and Parameter in Mixture of Experts](https://arxiv.org/abs/2601.18089)
 
 ## LLM Serving / Inference Systems
 
