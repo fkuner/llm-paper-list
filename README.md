@@ -5,14 +5,14 @@ Reading checklist for LLM papers.
 ## Foundations and Transformers
 
 - [ ] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [ ] [Transformers Are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
 
 ## State Space Models
 
 - [ ] [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 
-## Linear Attention and Long Context
+## Efficient Attention Architectures
 
+- [ ] [Transformers Are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
 - [ ] [A Survey of Linear Attention: Algorithm, Theory, Application, and Infrastructure](https://openreview.net/forum?id=ilkVX8aGmQ)
 - [ ] [Kimi Linear: An Expressive, Efficient Attention Architecture](https://doi.org/10.48550/arXiv.2510.26692)
 - [ ] [Gated Linear Attention Transformers with Hardware-Efficient Training](https://arxiv.org/abs/2312.06635)
@@ -20,13 +20,19 @@ Reading checklist for LLM papers.
 - [ ] [Erase-then-Delta Attention: Decoupling Erase and Write Addresses in Delta-Rule Linear Attention](https://doi.org/10.48550/arXiv.2606.26560)
 - [ ] [Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models](https://doi.org/10.48550/arXiv.2401.04658)
 - [ ] [Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention](https://doi.org/10.48550/arXiv.2405.17381)
+
+## Long Context Attention and Retrieval
+
 - [ ] [IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://ar5iv.labs.arxiv.org/html/2603.12201)
 - [ ] [Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/abs/2310.01889)
 
-## Long Context Training and Extension
+## Long Context Training Recipes
 
 - [ ] [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
 - [ ] [LongAlign: A Recipe for Long Context Alignment of Large Language Models](https://arxiv.org/abs/2401.18058)
+
+## Position Encoding and Context Extension
+
 - [ ] [Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs/2306.15595)
 - [ ] [YaRN: Efficient Context Window Extension of Large Language Models](https://arxiv.org/abs/2309.00071)
 
@@ -45,15 +51,18 @@ Reading checklist for LLM papers.
 - [ ] [DFlash: Block Diffusion for Flash Speculative Decoding](https://doi.org/10.48550/arXiv.2602.06036)
 - [ ] [When Hidden States Drift: Can KV Caches Rescue Long-Range Speculative Decoding?](https://doi.org/10.48550/arXiv.2604.26412)
 
-## MoE, MLA, and Efficient Model Architecture
+## Model Architecture
 
-- [ ] [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://doi.org/10.48550/arXiv.2401.06066)
 - [ ] [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://doi.org/10.48550/arXiv.2405.04434)
 - [ ] [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
 - [ ] [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://doi.org/10.48550/arXiv.2512.02556)
 - [ ] [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://arxiv.org/html/2606.19348v1)
 - [ ] [TransMLA: Multi-head Latent Attention Is All You Need](https://doi.org/10.48550/arXiv.2502.07864)
 - [ ] [Attention Residuals](https://arxiv.org/abs/2603.15031)
+
+## MoE and Sparse Models
+
+- [ ] [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://doi.org/10.48550/arXiv.2401.06066)
 - [ ] [LatentMoE: Toward Optimal Accuracy per FLOP and Parameter in Mixture of Experts](https://arxiv.org/abs/2601.18089)
 
 ## LLM Serving / Inference Systems
