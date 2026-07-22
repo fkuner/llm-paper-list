@@ -6,6 +6,13 @@ Reading checklist for LLM papers.
 
 - [ ] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
+## Normalization and Training Stability
+
+- [ ] [Layer Normalization](https://arxiv.org/abs/1607.06450)
+- [ ] [Root Mean Square Layer Normalization](https://arxiv.org/abs/1910.07467)
+- [ ] [On Layer Normalization in the Transformer Architecture](https://arxiv.org/abs/2002.04745)
+- [ ] [Understanding the Difficulty of Training Transformers](https://arxiv.org/abs/2004.08249)
+
 ## State Space Models
 
 - [ ] [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
