@@ -75,6 +75,8 @@ Reading checklist for LLM papers.
 ## Training and Parallel Systems
 
 - [ ] [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://doi.org/10.48550/arXiv.1909.08053)
+- [ ] [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://arxiv.org/abs/2104.04473)
+- [ ] [Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)
 - [ ] [Scalable Training of Mixture-of-Experts Models with Megatron Core](https://arxiv.org/abs/2603.07685)
 - [ ] [DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models](https://arxiv.org/abs/2309.14509)
 - [ ] [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://doi.org/10.48550/arXiv.1910.02054)
