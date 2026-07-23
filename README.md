@@ -82,6 +82,7 @@ Reading checklist for LLM papers.
 
 ## Training and Parallel Systems
 
+- [ ] [GPipe: Efficient Training of Giant Neural Networks Using Pipeline Parallelism](https://arxiv.org/abs/1811.06965)
 - [ ] [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://doi.org/10.48550/arXiv.1909.08053)
 - [ ] [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://arxiv.org/abs/2104.04473)
 - [ ] [Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)
