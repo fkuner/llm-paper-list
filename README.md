@@ -64,6 +64,7 @@ Reading checklist for LLM papers.
 - [ ] [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
 - [ ] [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://doi.org/10.48550/arXiv.2512.02556)
 - [ ] [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://arxiv.org/html/2606.19348v1)
+- [ ] [GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763)
 - [ ] [TransMLA: Multi-head Latent Attention Is All You Need](https://doi.org/10.48550/arXiv.2502.07864)
 - [ ] [Attention Residuals](https://arxiv.org/abs/2603.15031)
 
