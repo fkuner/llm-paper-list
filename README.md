@@ -90,4 +90,5 @@ Reading checklist for LLM papers.
 - [ ] [Scalable Training of Mixture-of-Experts Models with Megatron Core](https://arxiv.org/abs/2603.07685)
 - [ ] [DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models](https://arxiv.org/abs/2309.14509)
 - [ ] [USP: A Unified Sequence Parallelism Approach for Long Context Generative AI](https://arxiv.org/abs/2405.07719)
+- [ ] [MTraining: Distributed Dynamic Sparse Attention for Efficient Ultra-Long Context Training](https://arxiv.org/abs/2510.18830)
 - [ ] [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://doi.org/10.48550/arXiv.1910.02054)
