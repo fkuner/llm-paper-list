@@ -43,6 +43,10 @@ Reading checklist for LLM papers.
 - [ ] [Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs/2306.15595)
 - [ ] [YaRN: Efficient Context Window Extension of Large Language Models](https://arxiv.org/abs/2309.00071)
 
+## AI Compiler and Kernel Programming
+
+- [ ] [TileLang: A Composable Tiled Programming Model for AI Systems](https://arxiv.org/abs/2504.17577)
+
 ## FlashAttention / Attention Kernel
 
 - [ ] [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://doi.org/10.48550/arXiv.2205.14135)
