@@ -13,6 +13,10 @@ Reading checklist for LLM papers.
 - [ ] [On Layer Normalization in the Transformer Architecture](https://arxiv.org/abs/2002.04745)
 - [ ] [Understanding the Difficulty of Training Transformers](https://arxiv.org/abs/2004.08249)
 
+## Optimization and Pretraining
+
+- [ ] [SOAP, Muon, and Beyond: Pushing LLM Pretraining Scales](https://arxiv.org/abs/2607.20548)
+
 ## State Space Models
 
 - [ ] [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
