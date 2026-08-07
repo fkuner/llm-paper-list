@@ -75,6 +75,7 @@ Reading checklist for LLM papers.
 - [ ] [GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763)
 - [ ] [TransMLA: Multi-head Latent Attention Is All You Need](https://doi.org/10.48550/arXiv.2502.07864)
 - [ ] [Attention Residuals](https://arxiv.org/abs/2603.15031)
+- [ ] [GLU Variants Improve Transformer](https://arxiv.org/abs/2002.05202)
 
 ## MoE and Sparse Models
 
