@@ -15,6 +15,11 @@ Reading checklist for LLM papers.
 
 ## Optimization and Pretraining
 
+- [ ] [Muon: An optimizer for hidden layers in neural networks](https://kellerjordan.github.io/posts/muon/)
+- [ ] [Deriving Muon](https://jeremybernste.in/writing/deriving-muon)
+- [ ] [Old Optimizer, New Norm: An Anthology](https://arxiv.org/abs/2409.20325)
+- [ ] [Muon is Scalable for LLM Training](https://arxiv.org/abs/2502.16982)
+- [ ] [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)
 - [ ] [SOAP, Muon, and Beyond: Pushing LLM Pretraining Scales](https://arxiv.org/abs/2607.20548)
 
 ## State Space Models
