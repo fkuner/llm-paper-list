@@ -87,6 +87,7 @@ Reading checklist for LLM papers.
 - [ ] [TransMLA: Multi-head Latent Attention Is All You Need](https://doi.org/10.48550/arXiv.2502.07864)
 - [ ] [Attention Residuals](https://arxiv.org/abs/2603.15031)
 - [ ] [GLU Variants Improve Transformer](https://arxiv.org/abs/2002.05202)
+- [ ] [Looped Transformers are Better at Learning Learning Algorithms](https://arxiv.org/abs/2311.12424)
 
 ## MoE and Sparse Models
 
