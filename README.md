@@ -56,6 +56,12 @@ Reading checklist for LLM papers.
 
 - [ ] [TileLang: A Composable Tiled Programming Model for AI Systems](https://arxiv.org/abs/2504.17577)
 
+## Automatic Parallelization
+
+- [ ] [GSPMD: General and Scalable Parallelization for ML Computation Graphs](https://arxiv.org/abs/2105.04663)
+- [ ] [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023)
+- [ ] [nnScaler: Constraint-Guided Parallelization Plan Generation for Deep Learning Training](https://www.usenix.org/system/files/osdi24-lin-zhiqi.pdf)
+
 ## FlashAttention / Attention Kernel
 
 - [ ] [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://doi.org/10.48550/arXiv.2205.14135)
@@ -90,6 +96,7 @@ Reading checklist for LLM papers.
 - [ ] [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://doi.org/10.48550/arXiv.2401.06066)
 - [ ] [LatentMoE: Toward Optimal Accuracy per FLOP and Parameter in Mixture of Experts](https://arxiv.org/abs/2601.18089)
 - [ ] [MegaBlocks: Efficient Sparse Training with Mixture-of-Experts](https://arxiv.org/abs/2211.15841)
+- [ ] [MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production](https://arxiv.org/abs/2505.11432)
 
 ## LLM Serving / Inference Systems
 
@@ -109,3 +116,26 @@ Reading checklist for LLM papers.
 - [ ] [USP: A Unified Sequence Parallelism Approach for Long Context Generative AI](https://arxiv.org/abs/2405.07719)
 - [ ] [MTraining: Distributed Dynamic Sparse Attention for Efficient Ultra-Long Context Training](https://arxiv.org/abs/2510.18830)
 - [ ] [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://doi.org/10.48550/arXiv.1910.02054)
+- [ ] [WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training](https://arxiv.org/abs/2503.17924)
+- [ ] [ByteScale: Communication-Efficient Scaling of LLM Training with a 2048K Context Length on 16384 GPUs](https://doi.org/10.1145/3718958.3754352)
+
+## Distributed Training Systems
+
+- [ ] [Efficient Training of Large Language Models on Distributed Infrastructures: A Survey](https://arxiv.org/abs/2407.20018)
+- [ ] [MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs](https://arxiv.org/abs/2402.15627)
+- [ ] [Characterization of Large Language Model Development in the Datacenter](https://arxiv.org/abs/2403.07648)
+- [ ] [Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning](https://arxiv.org/abs/2008.12260)
+- [ ] [MegaScale-Data: Scaling DataLoader for Multisource Large Foundation Model Training](https://doi.org/10.1145/3767295.3803568)
+
+## Collective Communication and Network Systems
+
+- [ ] [TACCL: Guiding Collective Algorithm Synthesis using Communication Sketches](https://arxiv.org/abs/2111.04867)
+- [ ] [TopoOpt: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs](https://arxiv.org/abs/2202.00433)
+- [ ] [ForestColl: Throughput-Optimal Collective Communications on Heterogeneous Network Fabrics](https://arxiv.org/abs/2402.06787)
+- [ ] [HeteCCL: Synthesizing Near-Optimal Collective Communication Schedules for Heterogeneous GPU Clusters](https://www.usenix.org/conference/nsdi26/presentation/hei)
+
+## Training Reliability and Checkpointing
+
+- [ ] [Understanding Stragglers in Large Model Training Using What-if Analysis](https://arxiv.org/abs/2505.05713)
+- [ ] [Robust LLM Training Infrastructure at ByteDance](https://arxiv.org/abs/2509.16293)
+- [ ] [AdaCheck: An Adaptive Checkpointing System for Efficient LLM Training with Redundancy Utilization](https://www.usenix.org/conference/fast26/presentation/liu-weijie)
