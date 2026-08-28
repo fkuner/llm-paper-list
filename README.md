@@ -6,7 +6,7 @@ Reading status: `[ ]` unread, `[-]` quick read, `[x]` deep read.
 
 ## Foundations and Transformers
 
-- [ ] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [x] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 ## Normalization and Training Stability
 
@@ -65,7 +65,7 @@ Reading status: `[ ]` unread, `[-]` quick read, `[x]` deep read.
 
 ## FlashAttention / Attention Kernel
 
-- [ ] [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://doi.org/10.48550/arXiv.2205.14135)
+- [-] [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://doi.org/10.48550/arXiv.2205.14135)
 - [ ] [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://doi.org/10.48550/arXiv.2307.08691)
 - [ ] [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision](https://doi.org/10.48550/arXiv.2407.08608)
 - [ ] [FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling](https://doi.org/10.48550/arXiv.2603.05451)
