@@ -2,6 +2,8 @@
 
 Reading checklist for LLM papers.
 
+Reading status: `[ ]` unread, `[-]` quick read, `[x]` deep read.
+
 ## Foundations and Transformers
 
 - [ ] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
