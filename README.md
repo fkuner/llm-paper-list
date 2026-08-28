@@ -19,7 +19,6 @@ Reading checklist for LLM papers.
 - [ ] [Deriving Muon](https://jeremybernste.in/writing/deriving-muon)
 - [ ] [Old Optimizer, New Norm: An Anthology](https://arxiv.org/abs/2409.20325)
 - [ ] [Muon is Scalable for LLM Training](https://arxiv.org/abs/2502.16982)
-- [ ] [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)
 - [ ] [SOAP, Muon, and Beyond: Pushing LLM Pretraining Scales](https://arxiv.org/abs/2607.20548)
 
 ## State Space Models
@@ -80,7 +79,6 @@ Reading checklist for LLM papers.
 ## Model Architecture
 
 - [ ] [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://doi.org/10.48550/arXiv.2405.04434)
-- [ ] [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
 - [ ] [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://doi.org/10.48550/arXiv.2512.02556)
 - [ ] [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://arxiv.org/html/2606.19348v1)
 - [ ] [GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763)
@@ -89,6 +87,12 @@ Reading checklist for LLM papers.
 - [ ] [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)
 - [ ] [GLU Variants Improve Transformer](https://arxiv.org/abs/2002.05202)
 - [ ] [Looped Transformers are Better at Learning Learning Algorithms](https://arxiv.org/abs/2311.12424)
+
+## Technical Reports
+
+- [ ] [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)
+- [ ] [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
+- [ ] [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653)
 
 ## MoE and Sparse Models
 
