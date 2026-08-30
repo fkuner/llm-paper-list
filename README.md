@@ -14,6 +14,7 @@ Reading status: `[ ]` unread, `[x]` read. Depth: `👀` quick read, `📚` deep 
 - [ ] [Root Mean Square Layer Normalization](https://arxiv.org/abs/1910.07467)
 - [ ] [On Layer Normalization in the Transformer Architecture](https://arxiv.org/abs/2002.04745)
 - [ ] [Understanding the Difficulty of Training Transformers](https://arxiv.org/abs/2004.08249)
+- [ ] [A Unified View of Attention and Residual Sinks: Outlier-Driven Rescaling is Essential for Transformer Training](https://arxiv.org/abs/2601.22966)
 
 ## Optimization and Pretraining
 
@@ -26,6 +27,7 @@ Reading status: `[ ]` unread, `[x]` read. Depth: `👀` quick read, `📚` deep 
 ## State Space Models
 
 - [ ] [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
+- [ ] [Gated Delta Networks: Improving Mamba2 with Delta Rule](https://arxiv.org/abs/2412.06464)
 
 ## Efficient Attention Architectures
 
@@ -37,6 +39,7 @@ Reading status: `[ ]` unread, `[x]` read. Depth: `👀` quick read, `📚` deep 
 - [ ] [Erase-then-Delta Attention: Decoupling Erase and Write Addresses in Delta-Rule Linear Attention](https://doi.org/10.48550/arXiv.2606.26560)
 - [ ] [Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models](https://doi.org/10.48550/arXiv.2401.04658)
 - [ ] [Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention](https://doi.org/10.48550/arXiv.2405.17381)
+- [ ] [Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://arxiv.org/abs/2505.06708)
 
 ## Long Context Attention and Retrieval
 
@@ -86,6 +89,7 @@ Reading status: `[ ]` unread, `[x]` read. Depth: `👀` quick read, `📚` deep 
 - [ ] [GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763)
 - [ ] [TransMLA: Multi-head Latent Attention Is All You Need](https://doi.org/10.48550/arXiv.2502.07864)
 - [ ] [Attention Residuals](https://arxiv.org/abs/2603.15031)
+- [ ] [Hyper-Connections](https://arxiv.org/abs/2409.19606)
 - [ ] [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)
 - [ ] [GLU Variants Improve Transformer](https://arxiv.org/abs/2002.05202)
 - [ ] [Looped Transformers are Better at Learning Learning Algorithms](https://arxiv.org/abs/2311.12424)
@@ -95,6 +99,7 @@ Reading status: `[ ]` unread, `[x]` read. Depth: `👀` quick read, `📚` deep 
 - [ ] [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)
 - [ ] [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
 - [ ] [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653)
+- [ ] [On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability](https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf)
 
 ## MoE and Sparse Models
 
@@ -102,6 +107,8 @@ Reading status: `[ ]` unread, `[x]` read. Depth: `👀` quick read, `📚` deep 
 - [ ] [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/abs/2006.16668)
 - [ ] [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961)
 - [ ] [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://doi.org/10.48550/arXiv.2401.06066)
+- [ ] [Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/abs/2601.07372)
+- [ ] [Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of-Expert Models](https://arxiv.org/abs/2501.11873)
 - [ ] [LatentMoE: Toward Optimal Accuracy per FLOP and Parameter in Mixture of Experts](https://arxiv.org/abs/2601.18089)
 - [ ] [MegaBlocks: Efficient Sparse Training with Mixture-of-Experts](https://arxiv.org/abs/2211.15841)
 - [ ] [MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production](https://arxiv.org/abs/2505.11432)
